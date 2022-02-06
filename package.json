@@ -1,0 +1,15 @@
+{
+  "name": "cabron.alex.kidd",
+  "version": "0.0.1",
+  "description": "Alex Kidd Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Lucio Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
